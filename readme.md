@@ -1,3 +1,4 @@
-# Bem vindo ao projecto
-Aqui no tem nada man
-Like 2x nao tem nada
+# Bem vindo ao site
+- Bem vindo ao site
+- Tem boas coisas ca no site
+- Mudancas pelo 'dev-paulo'
